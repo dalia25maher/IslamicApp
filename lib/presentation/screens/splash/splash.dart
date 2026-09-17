@@ -37,7 +37,7 @@ class _SplashState extends State<Splash> {
           Container(
             alignment: Alignment.bottomCenter,
             child: Text(
-              "it's made by mahmoud ghaith",
+              "it's made by dalia maher",
               style: TextStyle(
                 fontSize: 20,
                 color: Colors.white,

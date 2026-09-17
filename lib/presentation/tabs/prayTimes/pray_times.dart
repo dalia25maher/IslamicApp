@@ -43,7 +43,7 @@ class PrayTimes extends StatelessWidget {
                             horizontal: heightQuery * 0.025,
                           ),
                           child: Text(
-                            "16 july,\n2024",
+                            "6 April,\n2026",
                             style: TextStyle(
                               fontWeight: FontWeight.bold,
                               fontSize: 16,
@@ -66,7 +66,7 @@ class PrayTimes extends StatelessWidget {
                                 ),
                               ),
                               Text(
-                                "Tuesday",
+                                "Wednesday",
                                 style: TextStyle(
                                   color: ColorsManger.black,
                                   fontSize: 18,
@@ -82,7 +82,7 @@ class PrayTimes extends StatelessWidget {
                             horizontal: heightQuery * 0.025,
                           ),
                           child: Text(
-                            "09 Muh,\n  1446",
+                            "19 DQA,\n  1447",
                             style: TextStyle(
                               fontWeight: FontWeight.bold,
                               fontSize: 16,
@@ -106,7 +106,7 @@ class PrayTimes extends StatelessWidget {
                           PrayerTimesCard(
                             pray: "Am",
                             prayName: "Dhuhr",
-                            prayTime: "11:54",
+                            prayTime: "12:54",
                           ),
                           PrayerTimesCard(
                             pray: "Pm",
@@ -116,12 +116,12 @@ class PrayTimes extends StatelessWidget {
                           PrayerTimesCard(
                             pray: "Pm",
                             prayName: "Maghrb",
-                            prayTime: "06:15",
+                            prayTime: "07:15",
                           ),
                           PrayerTimesCard(
                             pray: "Pm",
                             prayName: "Isha",
-                            prayTime: "07:35",
+                            prayTime: "09:05",
                           ),
                         ],
                         options: CarouselOptions(

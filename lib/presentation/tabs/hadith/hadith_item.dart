@@ -33,7 +33,7 @@ class _HadithItemState extends State<HadithItem> {
     heightQuery = MediaQuery.of(context).size.height;
     return Container(
       margin: EdgeInsets.symmetric(horizontal: heightQuery * 0.001 ),
-      height: heightQuery * 0.6,
+      // height: heightQuery * 0.6,
       decoration: BoxDecoration(
         color: ColorsManger.gold,
         borderRadius: BorderRadius.circular(15),
